@@ -1,8 +1,8 @@
 # Site settings
-title: gankai Blog
-SEOTitle: gankai博客 | gankai Blog
+title: 古腾堡计划（关注公众号）
+SEOTitle: 文学与法律咨询 | 致电13777235376（同微信）
 header-img: img/homePage.jpg
-email: gk1424301572@outlook.com
+email: yuxiaoming1985@gmail.com
 description: "Things that can make you miserable will surely make you strong, grow up, and must experience what others can't!"
 keyword: "Java, JavaScript, 博客, GitHubGanKai, vue, web, blog, js"
 url: "http://gankai.online/."          # your host, for absolute URL
@@ -101,10 +101,10 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://ruanwnku.com"
     },{
         title: "简书·GK",
-        href: "http://www.jianshu.com/u/4365773d2dd5"
+        href: "https://www.zhihu.com/column/13777235376"
     },{
         title: "Apple",
         href: "https://apple.com"
