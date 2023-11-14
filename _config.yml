@@ -5,7 +5,7 @@ header-img: img/homePage.jpg
 email: yuxiaoming1985@gmail.com
 description: "Things that can make you miserable will surely make you strong, grow up, and must experience what others can't!"
 keyword: "Java, JavaScript, 博客, GitHubGanKai, vue, web, blog, js"
-url: "http://gankai.online/."          # your host, for absolute URL
+url: "http://ruanwenku.com/."          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/GitHubGanKai/blog.git" # you code repository
 
@@ -101,7 +101,7 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://ruanwnku.com"
+        href: "http://ruanwenku.com"
     },{
         title: "简书·GK",
         href: "https://www.zhihu.com/column/13777235376"
